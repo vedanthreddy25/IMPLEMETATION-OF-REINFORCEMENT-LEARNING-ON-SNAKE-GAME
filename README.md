@@ -22,7 +22,7 @@ python main.py
 
 4.https://arxiv.org/abs/1312.5602
 
-5.https://papers.nips.cc/paper/2017/file/39ae2ed11b14a4ccb41d35e9d1ba5 d11-Paper.pdf
+5.https://papers.nips.cc/paper/2017/file/39ae2ed11b14a4ccb41d35e9d1ba5d11-Paper.pdf
 
 6.https://medium.com/@hugo.sjoberg88/using-reinforcement-learning-and-q-learning-to-7.play-snake-28423dd49e9b
 
