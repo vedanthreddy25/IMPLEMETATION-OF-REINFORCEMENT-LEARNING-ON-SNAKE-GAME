@@ -17,7 +17,9 @@ python main.py
 #REFERENCE
 
 1.https://arxiv.org/pdf/2007.08794.pdf
+
 2.https://www.researchgate.net/publication/221455879_High-3.level_reinforcement_learning_in_strategy_games
+
 4.https://arxiv.org/abs/1312.5602
 5.https://papers.nips.cc/paper/2017/file/39ae2ed11b14a4ccb41d35e9d1ba5 d11-Paper.pdf
 6.https://medium.com/@hugo.sjoberg88/using-reinforcement-learning-and-q-learning-to-7.play-snake-28423dd49e9b
