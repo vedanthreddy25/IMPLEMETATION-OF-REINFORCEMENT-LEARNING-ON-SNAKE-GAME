@@ -8,16 +8,19 @@ What you'll find:
 •	Tools for training, visualizing, and evaluating the performance of the RL agents.
 
 Requirements:
-•	Python 3.7+
-•	pytorch (install pytorch from here: https://pytorch.org/) 
+1.	Python 3.7+
+2.	PyTorch 
+3.	pygame
 
 Getting Started:
 1.	Clone the repository.
-2.	Install the necessary dependencies .
-3.	Choose an RL algorithm folder (e.g., q_learning).
-4.	Run the training script (e.g., python train.py).
-5.	Observe the training progress and agent performance in the terminal.
-6.	(Optional) Use provided visualization scripts to analyze the agent's behavior.
+2.	Install the necessary libraries.
+3.	Run snake_game_human.py to understand game by playing manually.
+4.	Setup game enivronment (game.py)
+5.	Choose model.py to use RL algorithms(e.g., Q_Learning,Deep_Q_Learning)
+6.	Run the agent file (python agent.py) which imported models.
+7.	Observe the training progress and agent performance in the terminal.
+8.	Use provided visualization scripts to analyze the agent's behavior.
    
 Structure:
 1. game: Contains the Snake game environment implementation.
