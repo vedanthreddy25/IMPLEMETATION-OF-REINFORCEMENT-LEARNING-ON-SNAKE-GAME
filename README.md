@@ -21,10 +21,10 @@ Getting Started:
 6.	(Optional) Use provided visualization scripts to analyze the agent's behavior.
    
 Structure:
-•	snake_env: Contains the Snake game environment implementation.
-•	rl_agents: Holds the RL algorithms and agent code.
-•	models: Pre-trained models for each algorithm.
-•	scripts: Training, evaluation, and visualization scripts.
+1. game: Contains the Snake game environment implementation.
+2. agent: Holds the RL algorithms and agent code.
+•	model: Pre-trained models for each algorithm.
+•	helper: Training, evaluation, and visualization scripts.
 •	README.md: This file (you're reading it!)
 
 
