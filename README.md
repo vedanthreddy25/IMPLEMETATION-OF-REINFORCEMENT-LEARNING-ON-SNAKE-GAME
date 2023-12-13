@@ -23,9 +23,9 @@ Getting Started:
 Structure:
 1. game: Contains the Snake game environment implementation.
 2. agent: Holds the RL algorithms and agent code.
-•	model: Pre-trained models for each algorithm.
-•	helper: Training, evaluation, and visualization scripts.
-•	README.md: This file (you're reading it!)
+3. model: Pre-trained models for each algorithm.
+4. helper: Training, evaluation, and visualization scripts.
+5. README.md: This file (you're reading it!)
 
 
 Additional Notes:
