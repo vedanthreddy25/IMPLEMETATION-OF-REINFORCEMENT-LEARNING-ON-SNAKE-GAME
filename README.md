@@ -23,11 +23,10 @@ Getting Started:
 Structure:
 •	snake_env: Contains the Snake game environment implementation.
 •	rl_agents: Holds the RL algorithms and agent code.
-       o	q_learning: Implementation of Q-Learning.
-       o	dqn: Implementation of Deep Q-Learning with a neural network.
 •	models: Pre-trained models for each algorithm.
 •	scripts: Training, evaluation, and visualization scripts.
 •	README.md: This file (you're reading it!)
+
 
 Additional Notes:
 •	Feel free to modify the code to experiment with different RL parameters, hyperparameters, and training configurations.
