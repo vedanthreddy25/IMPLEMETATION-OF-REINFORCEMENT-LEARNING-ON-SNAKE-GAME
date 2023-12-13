@@ -2,6 +2,10 @@
 
 This repository contains an implementation of Reinforcement Learning (RL) algorithms applied to the classic Snake game. Here's a quick overview:
 
+
+ Markup : * Python code for the Snake game environment.
+          * Implementations of popular RL algorithms like Q-Learning and Deep Q-Learning (DQN) for playing the game.
+
 What you'll find:
 •	Python code for the Snake game environment.
 •	Implementations of popular RL algorithms like Q-Learning and Deep Q-Learning (DQN) for playing the game.
