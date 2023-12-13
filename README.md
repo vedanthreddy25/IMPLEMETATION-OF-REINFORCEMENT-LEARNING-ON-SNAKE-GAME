@@ -10,11 +10,11 @@ What you'll find:
 
 Requirements:
 •	Python 3.7+
-•	pytorch
+•	pytorch (install pytorch from here: https://pytorch.org/) 
 
 Getting Started:
 1.	Clone the repository.
-2.	Install the necessary dependencies (refer to requirements.txt).
+2.	Install the necessary dependencies .
 3.	Choose an RL algorithm folder (e.g., q_learning).
 4.	Run the training script (e.g., python train.py).
 5.	Observe the training progress and agent performance in the terminal.
@@ -23,16 +23,14 @@ Getting Started:
 Structure:
 •	snake_env: Contains the Snake game environment implementation.
 •	rl_agents: Holds the RL algorithms and agent code.
-o	q_learning: Implementation of Q-Learning.
-o	double_q_learning: Implementation of Double Q-Learning.
-o	dqn: Implementation of Deep Q-Learning with a neural network.
+       o	q_learning: Implementation of Q-Learning.
+       o	dqn: Implementation of Deep Q-Learning with a neural network.
 •	models: Pre-trained models for each algorithm.
 •	scripts: Training, evaluation, and visualization scripts.
 •	README.md: This file (you're reading it!)
 
 Additional Notes:
 •	Feel free to modify the code to experiment with different RL parameters, hyperparameters, and training configurations.
-•	Consider exploring advanced RL techniques like experience replay and prioritized experience replay for further improvements.
 •	Share your findings and improvements via pull requests or issue reports.
 Enjoy learning about RL and training your own Snake-playing AI!
 
@@ -46,7 +44,6 @@ I hope this README provides a helpful starting point for your exploration of RL 
 
 """ INSTALLATION PROCESS"""
 
-pytorch install pytorch from here: https://pytorch.org/ 
 
 """ Requirements mentioned in the text file are needed to be installed for the project """ 
 
