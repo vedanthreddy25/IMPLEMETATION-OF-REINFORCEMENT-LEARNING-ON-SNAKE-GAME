@@ -9,7 +9,7 @@ The environment (our game) and the agent (our Snake—or, more accurately, the D
 This repository contains an implementation of Reinforcement Learning (RL) algorithms applied to the classic Snake game. Here's a quick overview:
 
 What you'll find:
-•	Python code for the Snake game environment./n
+•	Python code for the Snake game environment.
 •	Implementations of popular RL algorithms like Q-Learning and Deep Q-Learning (DQN) for playing the game.
 •	Tools for training, visualizing, and evaluating the performance of the RL agents.
 
