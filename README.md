@@ -44,7 +44,10 @@ Enjoy learning about RL and training your own Snake-playing AI!
 Further Resources:
 1. Sutton and Barto's "Reinforcement Learning: An Introduction"
 2. David Silver's Reinforcement Learning Lecture Series
-3. OpenAI Gym Snake environment (for comparison)
+3. https://arxiv.org/pdf/2007.08794.pdf
+4. https://medium.com/@hugo.sjoberg88/using-reinforcement-learning-and-q-learning-to-7.play-snake-28423dd49e9b
+
+
 
 I hope this README provides a helpful starting point for your exploration of RL and the Snake game!
 
