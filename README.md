@@ -1,5 +1,11 @@
 """IMPLEMETATION-OF-REINFORCEMENT-LEARNING-ON-SNAKE-GAME"""
 
+#Reinforcement Learning
+
+First, one may wonder why reinforcement learning is being used rather than supervised machine learning. The reason for this is that supervised ML algorithms require training with an input and a "correct answer" known as the goal.A standard technique would not work in this example since we don't know what to do at every level of the game. This is the time when Reinforcement Learning comes into action.
+
+The environment (our game) and the agent (our Snake—or, more accurately, the Deep Neural Network that controls our Snake's movements) are the two primary elements of reinforcement learning. Every time an agent acts, the environment rewards them; these rewards might be favourable or unfavourable, depending on how well the agent performed that particular activity.
+
 This repository contains an implementation of Reinforcement Learning (RL) algorithms applied to the classic Snake game. Here's a quick overview:
 
 What you'll find:
@@ -31,30 +37,19 @@ Structure:
 
 
 Additional Notes:
-•	Feel free to modify the code to experiment with different RL parameters, hyperparameters, and training configurations.
-•	Share your findings and improvements via pull requests or issue reports.
+1.	Feel free to modify the code to experiment with different RL parameters, hyperparameters, and training configurations.
+2.	Share your findings and improvements via pull requests or issue reports.
 Enjoy learning about RL and training your own Snake-playing AI!
 
 Further Resources:
-•	Sutton and Barto's "Reinforcement Learning: An Introduction"
-•	David Silver's Reinforcement Learning Lecture Series
-•	OpenAI Gym Snake environment (for comparison)
+1. Sutton and Barto's "Reinforcement Learning: An Introduction"
+2. David Silver's Reinforcement Learning Lecture Series
+3. OpenAI Gym Snake environment (for comparison)
 
 I hope this README provides a helpful starting point for your exploration of RL and the Snake game!
 
 
-""" INSTALLATION PROCESS"""
 
-
-""" Requirements mentioned in the text file are needed to be installed for the project """ 
-
-#command for installing the libraries
-
-pip install -r requirements.txt
-
-""" Code for to run the Game """
-
-python main.py
 
 
 #REFERENCE
