@@ -1,6 +1,6 @@
 """IMPLEMETATION-OF-REINFORCEMENT-LEARNING-ON-SNAKE-GAME"""
 
-#Reinforcement Learning 
+Reinforcement Learning 
 
 First, one may wonder why reinforcement learning is being used rather than supervised machine learning. The reason for this is that supervised ML algorithms require training with an input and a "correct answer" known as the goal.A standard technique would not work in this example since we don't know what to do at every level of the game. This is the time when Reinforcement Learning comes into action.
 
@@ -9,9 +9,9 @@ The environment (our game) and the agent (our Snake—or, more accurately, the D
 This repository contains an implementation of Reinforcement Learning (RL) algorithms applied to the classic Snake game. Here's a quick overview:
 
 What you'll find:
-•	Python code for the Snake game environment.
-•	Implementations of popular RL algorithms like Q-Learning and Deep Q-Learning (DQN) for playing the game.
-•	Tools for training, visualizing, and evaluating the performance of the RL agents.
+1. Python code for the Snake game environment.
+2. Implementations of popular RL algorithms like Q-Learning and Deep Q-Learning (DQN) for playing the game.
+3. Tools for training, visualizing, and evaluating the performance of the RL agents.
 
 Requirements:
 1.	Python 3.7+
